@@ -1,9 +1,11 @@
 todo
 
 <h1>features</h1>
-- statically typed
-- supports recursion
-- does not support oop
-- contains built in adts
-- for learning - teaches you good pratices
-- syntax like C
+<ul>
+  <li>statically typed</li>
+  <li>supports recursion</li>
+  <li>does not support oop</li>
+  <li>built in adts like stack list etc</li>
+  <li>for learning</li>
+  <li>syntax like C</li>
+</ul>
